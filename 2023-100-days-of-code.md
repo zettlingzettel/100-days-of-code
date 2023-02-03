@@ -1,15 +1,24 @@
 # 2023
 ❗🔁❗ -> needs to be done (obligatory) \
 🟩 -> completed \
-⬜ -> N/A or needs to be done (nonobligatory)
+⬜ -> N/A or needs to be done (nonobligatory) \
+Read upside down \ 
+Divided into : Daily Gists and Daily Stand-Down
 
+# Daily Gists: 
 # Week 1
 ## 01 Thu - 02 Fri - 03 Sat - 04 Sun
 | M  | T  | W  | T  |  F | S  | S  |
 |---|---|---|---|---|---|---|
 | n/a  | n/a  | n/a  | 🟩  | ⬜  | ⬜  | ⬜  |
 
-### Day 1 - Feb 02 - Thursday
+### Day 01 - Feb 02 - Thursday
+
+* Programming for Everybody (Getting Started with Python)
+Completed week 1, started week 2 & 3
+
+# Daily Stand-Down: 
+### Day 01 - Feb 02 - Thursday
 #### Python 
 #### Programming for Everybody (Week 1)
 
