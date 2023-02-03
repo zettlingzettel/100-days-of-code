@@ -3,9 +3,9 @@
 🟩 -> completed \
 ⬜ -> N/A or needs to be done (nonobligatory) \
 Read upside down <br /> 
-Divided into : Daily Gists and Daily Stand-Down
+Divided into : [Daily Gists](#daily-gists) and [Daily Stand-Down](#daily-stand-down)
 
-[Daily Gists](#daily-gists)
+
 
 # Daily Gists: 
 # Week 1
