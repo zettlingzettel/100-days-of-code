@@ -2,7 +2,7 @@
 ❗🔁❗ -> needs to be done (obligatory) \
 🟩 -> completed \
 ⬜ -> N/A or needs to be done (nonobligatory) \
-Divided into : [Daily Gists](#daily-gists) and [Daily Stand-Downs](#daily-stand-downs) <br /> 
+Divided into : [Weekly Gists](#weekly-gists) and [Daily Stand-Downs](#daily-stand-downs) <br /> 
 
 
 # Weekly Gists: 
@@ -15,6 +15,7 @@ Divided into : [Daily Gists](#daily-gists) and [Daily Stand-Downs](#daily-stand-
 ### Day 01 - Feb 02 - Thursday
 
 * Programming for Everybody (Getting Started with Python)
+
 Completed week 1, started week 2 & 3 <br />
 ------------- Week 1 -------------------------------------------------------------------------------------------
 # Daily Stand-Downs: 
