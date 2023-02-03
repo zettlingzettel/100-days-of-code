@@ -6,7 +6,7 @@ Divided into : [Daily Gists](#daily-gists) and [Daily Stand-Downs](#daily-stand-
 
 
 # Weekly Gists: 
-------------- Week 1 -------------
+------------- Week 1 -----------------------------------------------------------------
 ## 01 Thu - 02 Fri - 03 Sat - 04 Sun
 | M  | T  | W  | T  |  F | S  | S  |
 |---|---|---|---|---|---|---|
@@ -15,12 +15,11 @@ Divided into : [Daily Gists](#daily-gists) and [Daily Stand-Downs](#daily-stand-
 ### Day 01 - Feb 02 - Thursday
 
 * Programming for Everybody (Getting Started with Python)
-Completed week 1, started week 2 & 3
+Completed week 1, started week 2 & 3 <br />
 ------------- Week 1 -------------
 # Daily Stand-Downs: 
-
------------ Week 1 -----------
-[Day 01 - Feb 02 - Thursday](#day-01---feb-02---thursday-1) 
+------------- Week 1 ----------------------------------------------------------------- <br />
+[Day 01 - Feb 02 - Thursday](#day-01---feb-02---thursday-1) <br />
 ----------- Week 1 -----------
 ### Day 01 - Feb 02 - Thursday
 #### Python 
