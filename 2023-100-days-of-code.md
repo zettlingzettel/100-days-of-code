@@ -2,8 +2,11 @@
 ❗🔁❗ -> needs to be done (obligatory) \
 🟩 -> completed \
 ⬜ -> N/A or needs to be done (nonobligatory) \
-Divided into : [Weekly Gists](#weekly-gists) and [Daily Stand-Downs](#daily-stand-downs) <br /> 
+Divided into : [Monthly Gists](#monthly-gists) [Weekly Gists](#weekly-gists), [Daily Stand-Downs](#daily-stand-downs) <br /> 
 
+# Monthly Gists: 
+------------ February ------------ <br />
+Will be filled in in March 2023.
 
 # Weekly Gists: 
 ------------- Week 1 -------------------------------------------------------------------------------------------
@@ -12,8 +15,8 @@ Divided into : [Weekly Gists](#weekly-gists) and [Daily Stand-Downs](#daily-stan
 |---|---|---|---|---|---|---|
 | n/a  | n/a  | n/a  | 🟩  | ⬜  | ⬜  | ⬜  |
 
-### Day 01 - Feb 02 - Thursday
-
+### 🟩 Day 01 - Feb 02 - Thursday 🟩
+Started learning Python.
 * Programming for Everybody (Getting Started with Python)
 
 Completed week 1, started week 2 & 3 <br />
