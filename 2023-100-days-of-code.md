@@ -5,8 +5,9 @@
 Divided into : [Monthly Gists](#monthly-gists) [Weekly Gists](#weekly-gists), [Daily Stand-Downs](#daily-stand-downs) <br /> 
 
 # Monthly Gists: 
------------- February ------------ <br />
+------------- February -------------------------------------------------------------------------------------------<br />
 Will be filled in in March 2023.
+------------- February -------------------------------------------------------------------------------------------
 
 # Weekly Gists: 
 ------------- Week 1 -------------------------------------------------------------------------------------------
@@ -24,7 +25,9 @@ Completed week 1, started week 2 & 3 <br />
 # Daily Stand-Downs: 
 ------------ Week 1 ------------ <br />
 [Day 01 - Feb 02 - Thursday](#day-01---feb-02---thursday-1) <br />
------------- Week 1 ------------
+------------ Week 1 ------------ <br />
+
+------------- Day 01 -------------------------------------------------------------------------------------------
 ### Day 01 - Feb 02 - Thursday
 #### Python 
 #### Programming for Everybody (Week 1)
@@ -91,3 +94,4 @@ Completed week 1, started week 2 & 3 <br />
 => Bonus: Chapter 1 \
 ⬜ Interview: Daphne Koller - Building Coursera \
 ⬜ Face-to-Face Office Hours: Milan, Italy
+------------- Day 01 -------------------------------------------------------------------------------------------
