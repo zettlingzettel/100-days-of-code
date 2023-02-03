@@ -18,7 +18,7 @@ Divided into : [Daily Gists](#daily-gists) and [Daily Stand-Downs](#daily-stand-
 Completed week 1, started week 2 & 3
 
 # Daily Stand-Downs: 
-[Day 01 - Feb 02 - Thursday](###day-01---feb-02---thursday) 
+[Day 01 - Feb 02 - Thursday](###day-01-feb-02-thursday) 
 ### Day 01 - Feb 02 - Thursday
 #### Python 
 #### Programming for Everybody (Week 1)
