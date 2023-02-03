@@ -1,6 +1,6 @@
 # 2023
-❗🔁❗ -> needs to be done (obligatory)
-🟩 -> completed
+❗🔁❗ -> needs to be done (obligatory) \
+🟩 -> completed \
 ⬜ -> N/A or needs to be done (nonobligatory)
 
 # Week 1
@@ -51,27 +51,27 @@
 * 🟩  Recommended: Install Python 
 * 🟩 Taking Screen Shots
 
-=> Optional: Python Installation
-⬜ Optional- Installing Python Screen Shots
+=> Optional: Python Installation \
+⬜ Optional- Installing Python Screen Shots \
 ⬜ Practice Peer-graded Assignment•. Duration: 1 hour
 
-=> Bonus Materials
+=> Bonus Materials \
 ⬜ Bonus: Eben Upton and the RaspBerry Pi
 
 #### Programming for Everybody (Week 3) 
-=> Chapter One: Why We Program (continued)
-🟩 All graded assignments completed
+=> Chapter One: Why We Program (continued) \
+🟩 All graded assignments completed \
 
-=> Lecture materials
-1.4 - Writing Paragraphs of Code
+=> Lecture materials \
+1.4 - Writing Paragraphs of Code \
 
-=> Review: Chapter 1
+=> Review: Chapter 1 
 * 🟩 Chapter 1 - Graded - Quiz 10 questions - Grade: 90%
 
 => Assignment: Chapter 1
 * 🟩 Demonstration: Doing the "Hello World" Assignment
 * 🟩 Assignment: Write Hello World - Graded - Grade: 100%
 
-=> Bonus: Chapter 1
-⬜ Interview: Daphne Koller - Building Coursera
+=> Bonus: Chapter 1 \
+⬜ Interview: Daphne Koller - Building Coursera \
 ⬜ Face-to-Face Office Hours: Milan, Italy
