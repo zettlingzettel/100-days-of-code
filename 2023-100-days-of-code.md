@@ -2,8 +2,10 @@
 ❗🔁❗ -> needs to be done (obligatory) \
 🟩 -> completed \
 ⬜ -> N/A or needs to be done (nonobligatory) \
-Read upside down \ 
+Read upside down <br /> 
 Divided into : Daily Gists and Daily Stand-Down
+
+[Daily Gists](#daily-gists)
 
 # Daily Gists: 
 # Week 1
