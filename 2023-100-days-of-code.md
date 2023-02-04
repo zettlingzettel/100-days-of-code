@@ -15,23 +15,51 @@ Will be filled in in March 2023 <br />
 ## 01 Thu - 02 Fri - 03 Sat - 04 Sun
 | M  | T  | W  | T  |  F | S  | S  |
 |---|---|---|---|---|---|---|
-| n/a  | n/a  | n/a  | 🟩  | 🟩   | ⬜  | ⬜  |
+| n/a  | n/a  | n/a  | 🟩  | 🟩   | 🟩   | ⬜  |
 
-### 🟩 Day 02 - Feb 03 - Friday 🟩
-Used vscode and term to run code.
+### 🟩 Day 03 - Feb 04 - Saturday 🟩
 * Programming for Everybody (Getting Started with Python)
+Completed Week 5
+### 🟩 Day 02 - Feb 03 - Friday 🟩
+Used vscode and term to run code. Found out about reserved words.
 
+* Programming for Everybody (Getting Started with Python)
+Completed Week 4
 ### 🟩 Day 01 - Feb 02 - Thursday 🟩
 Started learning Python.
 * Programming for Everybody (Getting Started with Python)
-
 Completed week 1, started week 2 & 3 <br />
+
 ------------- Week 1 -------------------------------------------------------------------------------------------
 # Daily Stand-Downs: 
 ------------- Week 1 -------------------------------------------------------------------------------------------<br />
 [Day 01 - Feb 02 - Thursday](#day-01---feb-02---thursday) <br />
 [Day 02 - Feb 03 - Friday](#day-02---feb-03---friday) <br />
+[Day 03 - Feb 04 - Saturday](#day-03---feb-04---saturday) <br />
 ------------- Week 1 -------------------------------------------------------------------------------------------<br />
+------------- Day 03 -------------------------------------------------------------------------------------------
+
+
+### Day 03 - Feb 04 - Saturday
+#### Python 
+
+=> Chapter Three: Conditional Code <br />
+
+=> Lecture materials
+* 🟩  Conditional Statements
+* 🟩  More Conditional Statements
+
+=> Review: Chapter 3
+* 🟩  Chapter 3 - Quiz - Grade: --
+
+=> Assignment: Chapter 3
+* 🟩  Assignment 3.1 - Grade: --
+* 🟩  Worked Exercise: 3.2 (video)
+* 🟩  Assignment 3.3 - Grade: --
+
+=> Bonus: Chapter 3
+* ⬜ Interview: Massimo Banzi: The Arduino
+* ⬜ Office Hours: Seoul Korea
 
 ------------- Day 02 -------------------------------------------------------------------------------------------
 
