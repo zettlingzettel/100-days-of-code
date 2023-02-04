@@ -44,13 +44,6 @@ Completed week 1, started week 2 & 3 <br />
 #### Programming for Everybody (Week 3)
 => Lecture materials
 * 🟩  1.4 - Writing Paragraphs of Code
-* ✅ Review: Chapter 1
-* ✅ Chapter 1 - Quiz - Grade: 90%
-* ✅ Assignment: Chapter 1
-
-=> Assignment
-* ✅ Demonstration: Doing the "Hello World" Assignment
-* ✅ Assignment: Write Hello World - Grade: 100%
 
 Bonus: Chapter 1
 * ⬜ Interview: Daphne Koller - Building Coursera
@@ -61,18 +54,18 @@ Bonus: Chapter 1
 => Chapter Two: Variables and Expressions \
 
 => Lecture materials 
-* ❗🔁❗ 2.1 - Expressions
-* ❗🔁❗ 2.2 - Expressions Part 2
-* ❗🔁❗ 2.3 - Expressions - Part 3
+* 🟩  2.1 - Expressions
+* 🟩  2.2 - Expressions Part 2
+* 🟩  2.3 - Expressions - Part 3
 
 => Review: Chapter 2
-* ❗🔁❗ Chapter 2 - Quiz - Grade: --
+* 🟩  Chapter 2 - Quiz - Grade: --
 
 => Assignment: Chapter 2
-* ❗🔁❗ Assignment 2.2  - Grade: --
-* ❗🔁❗ Where is the worked exercise for Assignment 2.2?
-* ❗🔁❗ Assignment 2.3 - Grade: --
-* ❗🔁❗ Worked Exercise: 2.3 - Video
+* 🟩  Assignment 2.2  - Grade: -- 100%
+* 🟩  Where is the worked exercise for Assignment 2.2?
+* 🟩  Assignment 2.3 - Grade: -- 100%
+* 🟩  Worked Exercise: 2.3 - Video
 
 => Bonus: Chapter 2
 * ⬜ Interview: Pooja Sankar - Building Piazza
