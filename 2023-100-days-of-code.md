@@ -80,14 +80,14 @@ Completed week 1, started week 2 & 3 <br />
 => Chapter Four: Functions <br />
 
 => Lecture materials
-* ❗🔁❗ 4.1 - Using Functions
-* ❗🔁❗ 4.2 - Building Functions
+* 🟩 4.1 - Using Functions
+* 🟩 4.2 - Building Functions
 
 => Review: Chapter 4
-* ❗🔁❗ - Chapter 4 - Quiz - Grade: --
+* 🟩 - Chapter 4 - Quiz - Grade: --
 
 => Assignment: Chapter 4
-* ❗🔁❗ Assignment 4.6 - Grade: --
+* 🟩 Assignment 4.6 - Grade: --
 
 => Bonus: Chapter 4
 * ⬜ Interview: Guido van Rossum: The Early Years of Python
