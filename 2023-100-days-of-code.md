@@ -3,6 +3,8 @@
 🟩 -> completed that day \
 ✅ -> completed another day \
 ⬜ -> N/A or needs to be done (nonobligatory) \
+🌸🌸🌸 -> division between monthly gists, weekly gists, and daily stand-downs <br />
+✨✨✨ -> division between weeks <br /> 
 Divided into : [Monthly Gists](#monthly-gists) [Weekly Gists](#weekly-gists), [Daily Stand-Downs](#daily-stand-downs) <br /> 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 # Monthly Gists:  
