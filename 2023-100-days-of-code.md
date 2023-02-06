@@ -28,6 +28,7 @@ Will be filled in in March 2023 <br />
 | 🟩  | n/a  | n/a  | n/a   | n/a    | n/a    | n/a    |
 ### 🟩 Day 05 - Feb 06 - Monday 🟩
 * Figured out how to publish react on github pages
+* Completed week 6 in Programming for Everybody (Getting Started with Python)
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
@@ -59,16 +60,16 @@ Completed week 1, started week 2 & 3 <br />
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ### Stand Down Week 2
 [Week 2](#week-2---daily-gists) <br />
-[Day 05 - Feb 06 - Monday](#day-05---feb-06---monday) <br />
+=> [Day 05 - Feb 06 - Monday](#day-05---feb-06---monday) <br />
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ### Stand Down Week 1
 
-[Week 1](#week-1---daily-gists)
-[Day 04 - Feb 05 - Sunday](#day-04---feb-05---sunday) <br />
-[Day 03 - Feb 04 - Saturday](#day-03---feb-04---saturday) <br />
-[Day 02 - Feb 03 - Friday](#day-02---feb-03---friday) <br />
-[Day 01 - Feb 02 - Thursday](#day-01---feb-02---thursday) <br />
+[Week 1](#week-1---daily-gists) <br />
+=> [Day 04 - Feb 05 - Sunday](#day-04---feb-05---sunday) <br />
+=> [Day 03 - Feb 04 - Saturday](#day-03---feb-04---saturday) <br />
+=> [Day 02 - Feb 03 - Friday](#day-02---feb-03---friday) <br />
+=> [Day 01 - Feb 02 - Thursday](#day-01---feb-02---thursday) <br />
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 # WEEK 2 - Daily Gists <br />
