@@ -26,6 +26,7 @@
 * TOTAL HOURS: 266 hrs <br />
 | 1  | 2  | 3  | 4  |  5 | 6 | 7 |
 |---|---|---|---|---|---|---|
+|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
 | 18 hrs | 28 hrs  | 22 hrs  | 24 hrs  | 39 hrs  | 42 hrs | 71 hrs |
 
 ## IT Support
@@ -51,18 +52,21 @@
 
 ## OWASP Top 10 - 2021 Specialization
 * TOTAL HOURS: 18 <br />
+
 | 1  | 2  | 3  | 
 |---|---|---|
 | n/a | n/a  | n/a  | 
 
 ## DevOps Culture and Mindset
 * TOTAL HOURS: 15 <br />
+
 | 1  |  
 |---|
 | n/a | 
 
 ## Cloud Technical Essentials
 * TOTAL HOURS: 18 <br />
+
 | 1  |  
 |---|
 | n/a | 
@@ -73,7 +77,6 @@
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
 | 🟩 | n/a  | n/a  | n/a  | n/a  | 
-| |   |   |  |  | 
 
 * 🟩 1) Programming for Everybody (Getting Started with Python) <br />
 Started -> 2023, Feb 2 <br />
