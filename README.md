@@ -16,6 +16,7 @@
 ## Python
 * [Python for Everybody Specialization](#python-for-everybody-specialization)
 * TOTAL HOURS: 106 hrs <br />
+
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
 | 🟩 | n/a  | n/a  | n/a  | n/a  | 
@@ -24,6 +25,7 @@
 ## UX Design
 * Google UX Design Professional Certificate
 * TOTAL HOURS: 266 hrs <br />
+
 | 1  | 2  | 3  | 4  |  5 | 6 | 7 |
 |---|---|---|---|---|---|---|
 |n/a|n/a|n/a|n/a|n/a|n/a|n/a|
@@ -32,6 +34,7 @@
 ## IT Support
 * Google IT Support Professional Certificate
 * TOTAL HOURS: 266 hrs <br />
+
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
 | n/a | n/a  | n/a  | n/a  | n/a  | 
@@ -40,12 +43,14 @@
 ## SEO
 * Search Engine Optimization (SEO) Specialization 
 * TOTAL HOURS: 133 hrs <br />
+
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
 | n/a | n/a  | n/a  | n/a  | n/a  | 
 
 ## Information Visualization Specialization
 * TOTAL HOURS: 54 <br />
+
 | 1  | 2  | 3  | 4  | 
 |---|---|---|---|
 | n/a | n/a  | n/a  | n/a  | 
