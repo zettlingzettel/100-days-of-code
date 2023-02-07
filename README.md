@@ -8,9 +8,9 @@
 
 # Completed Specializations & Courses :
 ## Python
-=> [Python for Everybody Specialization] <br />
+=> Python for Everybody Specialization <br />
 * 1 course out of 5
-🟩-⬜-⬜-⬜-⬜ 
+🟩-⬜-⬜-⬜-⬜  <br />
 
 
 # Courses in Progress
