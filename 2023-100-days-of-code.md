@@ -25,7 +25,11 @@ Will be filled in in March 2023 <br />
 ## 05 Mon - 12 Sun
 | M  | T  | W  | T  |  F | S  | S  |
 |---|---|---|---|---|---|---|
-| 🟩  | n/a  | n/a  | n/a   | n/a    | n/a    | n/a    |
+| 🟩  | 🟩   | n/a  | n/a   | n/a    | n/a    | n/a    |
+
+### 🟩 Day 06 - Feb 07 - Tuesday 🟩
+* Completed week 7 in Programming for Everybody (Getting Started with Python)
+
 ### 🟩 Day 05 - Feb 06 - Monday 🟩
 * Figured out how to publish react on github pages
 * Completed week 6 in Programming for Everybody (Getting Started with Python)
