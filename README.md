@@ -10,6 +10,8 @@
 ## Python
 => [Python for Everybody Specialization] <br />
 * 1 course out of 5
+🟩-⬜-⬜-⬜-⬜ 
+
 
 # Courses in Progress
 
