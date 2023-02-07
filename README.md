@@ -15,7 +15,7 @@
 
 ## Python
 * [Python for Everybody Specialization](#python-for-everybody-specialization)
-* TOTAL HOURS: 106 hrs
+* TOTAL HOURS: 106 hrs <br />
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
 | 🟩 | n/a  | n/a  | n/a  | n/a  | 
@@ -23,14 +23,14 @@
 
 ## UX Design
 * Google UX Design Professional Certificate
-* TOTAL HOURS: 266 hrs
+* TOTAL HOURS: 266 hrs <br />
 | 1  | 2  | 3  | 4  |  5 | 6 | 7 |
 |---|---|---|---|---|---|---|
 | 18 hrs | 28 hrs  | 22 hrs  | 24 hrs  | 39 hrs  | 42 hrs | 71 hrs |
 
 ## IT Support
 * Google IT Support Professional Certificate
-* TOTAL HOURS: 266 hrs
+* TOTAL HOURS: 266 hrs <br />
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
 | n/a | n/a  | n/a  | n/a  | n/a  | 
@@ -38,31 +38,31 @@
 
 ## SEO
 * Search Engine Optimization (SEO) Specialization 
-* TOTAL HOURS: 133 hrs
+* TOTAL HOURS: 133 hrs <br />
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
 | n/a | n/a  | n/a  | n/a  | n/a  | 
 
 ## Information Visualization Specialization
-* TOTAL HOURS: 54
+* TOTAL HOURS: 54 <br />
 | 1  | 2  | 3  | 4  | 
 |---|---|---|---|
 | n/a | n/a  | n/a  | n/a  | 
 
 ## OWASP Top 10 - 2021 Specialization
-* TOTAL HOURS: 18
+* TOTAL HOURS: 18 <br />
 | 1  | 2  | 3  | 
 |---|---|---|
 | n/a | n/a  | n/a  | 
 
 ## DevOps Culture and Mindset
-* TOTAL HOURS: 15
+* TOTAL HOURS: 15 <br />
 | 1  |  
 |---|
 | n/a | 
 
 ## Cloud Technical Essentials
-* TOTAL HOURS: 18
+* TOTAL HOURS: 18 <br />
 | 1  |  
 |---|
 | n/a | 
