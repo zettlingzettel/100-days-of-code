@@ -60,6 +60,7 @@ Completed week 1, started week 2 & 3 <br />
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ### Stand Down Week 2
 [Week 2](#week-2---daily-gists) <br />
+=> [Day 06 - Feb 07 - Tuesday](#day-06---feb-07---tuesday) <br />
 => [Day 05 - Feb 06 - Monday](#day-05---feb-06---monday) <br />
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
@@ -73,6 +74,34 @@ Completed week 1, started week 2 & 3 <br />
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 # WEEK 2 - Daily Gists <br />
+
+------------- Day 06 ------------------------------------------------------------------------------------------- <br />
+### Day 06 - Feb 07 - Tuesday
+#### Python
+=> Chapter Five: Loops and Iteration <br />
+=> Lecture materials
+* 🟩  5.1 - Loops and Iteration
+* 🟩  5.2 - Definite Loops
+* 🟩  5.3 - Finding the Largest Value
+* 🟩  5.4 - Loop Idioms
+
+=> Review: Chapter 5
+* 🟩  Chapter 5 - Quiz
+
+=> Chapter 5 Assignment
+* 🟩   Worked Exercise: 5.1 (Video)
+* 🟩  Assignment 5.2 - graded
+
+=> Wrap-Up
+* 🟩  What's Next - Dr.Chuck
+
+=> Bonus: Chapter 5
+* ⬜  Interview: Guido van Rossum - The Modern Era of Python
+* ⬜  Office Hours: Paris, France
+* ⬜  Please Rate this Course on Class-Central
+* ⬜ Post-Course Survey
+* ⬜ Keep Learning with Michigan Online
+------------- Day 06 ------------------------------------------------------------------------------------------- <br />
 ------------- Day 05 -------------------------------------------------------------------------------------------
 ### Day 05 - Feb 06 - Monday
 #### React
@@ -91,7 +120,7 @@ Completed week 1, started week 2 & 3 <br />
 * 🟩 Assignment 4.6 - Grade: --
 
 => Bonus: Chapter 4
-* ⬜ Interview: Guido van Rossum: The Early Years of Python
+* ⬜  Interview: Guido van Rossum: The Early Years of Python
 * ⬜ Office Hours: Manila Philippines
 
 
