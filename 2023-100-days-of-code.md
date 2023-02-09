@@ -16,7 +16,7 @@ Will be filled in in March 2023 <br />
 [🌸 Week 1](#week-1) <br />
 | W | M  | T  | W  | T  |  F | S  | S  |
 |---|---|---|---|---|---|---|---|
-| W2| 5 🟩 | n/a  | n/a  | n/a   | n/a    | n/a    | n/a    |
+| W2| 5 🟩 | 6 🟩   | n/a  | n/a   | n/a    | n/a    | n/a    |
 | W1| n/a| n/a  | n/a  | 1 🟩  | 2 🟩   | 3 🟩   | 4 🟩   |
 
 
@@ -25,8 +25,11 @@ Will be filled in in March 2023 <br />
 ## 05 Mon - 12 Sun
 | M  | T  | W  | T  |  F | S  | S  |
 |---|---|---|---|---|---|---|
-| 🟩  | 🟩   | n/a  | n/a   | n/a    | n/a    | n/a    |
+| 🟩  | 🟩   | 🟩  | n/a   | n/a    | n/a    | n/a    |
 
+### 🟩 Day 07 - Feb 08 - Wednesday 🟩
+* Solved problem with routes in react
+* Found projects for portfolio
 ### 🟩 Day 06 - Feb 07 - Tuesday 🟩
 * Completed week 7 in Programming for Everybody (Getting Started with Python)
 
@@ -64,6 +67,8 @@ Completed week 1, started week 2 & 3 <br />
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ### Stand Down Week 2
 [Week 2](#week-2---daily-gists) <br />
+=> [Day 08 - Feb 09 - Thursday](#day-08---feb-09---thursday) <br />
+=> [Day 07 - Feb 08 - Wednesday](#day-07---feb-08---wednesday) <br />
 => [Day 06 - Feb 07 - Tuesday](#day-06---feb-07---tuesday) <br />
 => [Day 05 - Feb 06 - Monday](#day-05---feb-06---monday) <br />
 
@@ -78,6 +83,55 @@ Completed week 1, started week 2 & 3 <br />
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 # WEEK 2 - Daily Gists <br />
+
+------------- Day 08 ------------------------------------------------------------------------------------------- <br />
+### Day 08 - Feb 09 - Thursday
+
+------------- Day 08 ------------------------------------------------------------------------------------------- <br />
+
+=> Chapter Six: Strings <br />
+
+=> Welcome
+* 🟩 Video Welcome - Dr. Chuck
+* 🟩 Reading: Welcome to Python Data Structures
+* ❗🔁❗ Help Us Learn More About You! - Reading
+* 🟩 Course Syllabus - Reading
+
+Materials
+* 🟩 Textbook - Reading
+* 🟩 Welcome to Python 3 - Reading
+* 🟩 Submitting Assignments - Reading
+
+=> Lecture materials
+* 🟩 6.1 - Strings
+* 🟩 6.2 - Manipulating Strings
+
+=> Review: Chapter 6
+* ❗🔁❗ Notice for Auditing Learners: Assignment Submission
+* ❗🔁❗ Chapter 6 Quiz - Grade: --
+
+=> Assignment: Chapter 6
+* ❗🔁❗ Assignment 6.5 - Grade: --
+* ❗🔁❗ Worked Exercise: 6.5
+
+
+=> Bonus: Chapter 6
+* ⬜ Bonus: Office Hours New York City
+* ⬜ Bonus: Monash Museum of Computing History
+* ⬜ Fun: The Textbook Authors Meet @PyCon
+
+=> Additional materials
+* ⬜ Audio Versions of All Lectures
+
+------------- Day 07 ------------------------------------------------------------------------------------------- <br />
+### Day 07 - Feb 08 - Wednesday
+#### React
+* Learnt that in index.js to the Route should be added the asterisk
+      ```
+        <Route path="/*" element={ <App /> }>
+      ```
+
+------------- Day 07 ------------------------------------------------------------------------------------------- <br />
 
 ------------- Day 06 ------------------------------------------------------------------------------------------- <br />
 ### Day 06 - Feb 07 - Tuesday
