@@ -35,11 +35,12 @@
 |---|---|---|---|---|---|---|
 |n/a|n/a|n/a|n/a|n/a|n/a|n/a|
 | 18 hrs | 28 hrs  | 22 hrs  | 24 hrs  | 39 hrs  | 42 hrs | 71 hrs |
-* 1.1
+|🟦 21% out of 100%|n/a|n/a|n/a|n/a|n/a|n/a|
+* 1.1 <br />
 
 | W 1  | W 2  | W 3  | W 4  |
 |---|---|---|---|---|---|---|
-|🟦 21% out of 100%|n/a|n/a|n/a|n/a|n/a|n/a|
+|🟦 |n/a|n/a|n/a|n/a|n/a|n/a|
 
 
 ## IT Support
