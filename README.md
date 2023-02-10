@@ -12,8 +12,9 @@
 # Completed Specializations & Courses :
 ## Python
 => Python for Everybody Specialization <br />
-* 1 course out of 5
 🟩-⬜-⬜-⬜-⬜  <br />
+* 1 course out of 5
+* 🟩 1) Getting Started with Python
 
 
 # Courses in Progress
@@ -24,7 +25,7 @@
 
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
-| 🟩 | 🟦 13% out of 100%  | n/a  | n/a  | n/a  | 
+| 🟩 | 🟦 21% out of 100%  | n/a  | n/a  | n/a  | 
 | 19 hrs | 19 hrs  | 19 hrs  | 15 hrs  | 9 hrs  | 
 
 ## UX Design
@@ -36,12 +37,6 @@
 |n/a|n/a|n/a|n/a|n/a|n/a|n/a|
 | 18 hrs | 28 hrs  | 22 hrs  | 24 hrs  | 39 hrs  | 42 hrs | 71 hrs |
 |🟦 21% out of 100%|n/a|n/a|n/a|n/a|n/a|n/a|
-* 1.1 <br />
-
-| W 1  | W 2  | W 3  | W 4  |
-|---|---|---|---|---|---|---|
-|🟦 |n/a|n/a|n/a|n/a|n/a|n/a|
-
 
 ## IT Support
 * Google IT Support Professional Certificate
@@ -51,6 +46,12 @@
 |---|---|---|---|---|
 | 🟦 6% out of 100% | n/a  | n/a  | n/a  | n/a  | 
 | 22 hrs | 28 hrs  | 35 hrs  | 27 hrs  | 32 hrs  | 
+
+# Courses to Complete in Future
+## Python
+
+* Python 3 Programming Specialization 
+* Django For Everybody
 
 ## SEO
 * Search Engine Optimization (SEO) Specialization 
@@ -87,46 +88,6 @@
 | 1  |  
 |---|
 | n/a | 
-
-
-# Detailed Data About Courses
-## Python for Everybody Specialization
-| 1  | 2  | 3  | 4  |  5 |
-|---|---|---|---|---|
-| 🟩 | n/a  | n/a  | n/a  | n/a  | 
-
-* 🟩 1) Programming for Everybody (Getting Started with Python) <br />
-Started -> 2023, Feb 2 <br />
-Completed -> 2023, Feb 7 <br />
-* ⬜ 2) Python Data Structures
-* ⬜ 3) Using Python to Access Web Data
-* ⬜ 4) Using Databases with Python
-* ⬜ 5) Capstone: Retrieving, Processing, and Visualizing Data with Python
-
-
-
-
-# Courses to Complete in Future
-### Python
-* [Python 3 Programming Specialization](#python-3-programming-specialization)
-| 1  | 2  | 3  | 4  |  5 |
-|---|---|---|---|---|
-| n/a | n/a  | n/a  | n/a  | n/a  | 
-## Django For Everybody
-
-## Python 3 Programming Specialization
-| 1  | 2  | 3  | 4  |  5 |
-|---|---|---|---|---|
-| n/a | n/a  | n/a  | n/a  | n/a  | 
-
-* ⬜ 1) Python Basics
-* ⬜ 2) Python Functions, Files, and Dictionaries
-* ⬜ 3) Data Collection and Processing with Python
-* ⬜ 4) Python Classes and Inheritance
-* ⬜ 5) Python Project: pillow, tesseract, and opencv
-
-
-
 # Courses MAYBE to Complete in the Future (PT 1)
 * SQL for Data Science
 * Statistics with Python
