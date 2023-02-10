@@ -4,7 +4,10 @@
 * [Detailed Info About Courses](#detailed-data-about-courses)
 * [Courses to Complete in the Future](#courses-maybe-to-complete-in-the-future-pt-1)
 
-
+# => Legend:
+* 🟩 - completed
+* 🟦 - working on right now
+* ⬜ or n/a - not completed yet
 
 # Completed Specializations & Courses :
 ## Python
@@ -21,7 +24,7 @@
 
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
-| 🟩 | n/a  | n/a  | n/a  | n/a  | 
+| 🟩 | 🟦 13% out of 100%  | n/a  | n/a  | n/a  | 
 | 19 hrs | 19 hrs  | 19 hrs  | 15 hrs  | 9 hrs  | 
 
 ## UX Design
@@ -32,6 +35,11 @@
 |---|---|---|---|---|---|---|
 |n/a|n/a|n/a|n/a|n/a|n/a|n/a|
 | 18 hrs | 28 hrs  | 22 hrs  | 24 hrs  | 39 hrs  | 42 hrs | 71 hrs |
+* 1.1
+| W 1  | W 2  | W 3  | W 4  |
+|---|---|---|---|---|---|---|
+|🟦 21% out of 100%|n/a|n/a|n/a|n/a|n/a|n/a|
+
 
 ## IT Support
 * Google IT Support Professional Certificate

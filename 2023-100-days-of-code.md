@@ -27,6 +27,13 @@ Will be filled in in March 2023 <br />
 |---|---|---|---|---|---|---|
 | 🟩  | 🟩   | 🟩  | n/a   | n/a    | n/a    | n/a    |
 
+### 🟩 Day 08 - Feb 09 - Thursday 🟩
+=> UX Design Google
+* Completed Week1 "Get to know user experience design"
+=> Python
+* Started Week 1
+
+
 ### 🟩 Day 07 - Feb 08 - Wednesday 🟩
 * Solved problem with routes in react
 * Found projects for portfolio
@@ -87,8 +94,10 @@ Completed week 1, started week 2 & 3 <br />
 ------------- Day 08 ------------------------------------------------------------------------------------------- <br />
 ### Day 08 - Feb 09 - Thursday
 
-------------- Day 08 ------------------------------------------------------------------------------------------- <br />
+* [Python - Day 08](#python---day-08)
+* [UX Design - Day 08](#ux-design---day-08)
 
+#### Python - Day 08
 => Chapter Six: Strings <br />
 
 => Welcome
@@ -123,6 +132,19 @@ Materials
 => Additional materials
 * ⬜ Audio Versions of All Lectures
 
+#### UX-Design - Day 08
+=> Get to know user experience design
+* 🟩 The product development life cycle
+* 🟩 The product development life cycle
+* 🟩 Design for a good user experience
+* 🟩 Characteristics of a good user experience
+* 🟩 Identify a good user experience
+* 🟩 Activity: Identify good user experience
+* 🟩 Practice Quiz - 1 question
+* 🟩 Activity Exemplar: Identify good user experience
+* 🟩 Examine user experiences in your life - Discussion Prompt
+
+------------- Day 08 ------------------------------------------------------------------------------------------- <br />
 ------------- Day 07 ------------------------------------------------------------------------------------------- <br />
 ### Day 07 - Feb 08 - Wednesday
 #### React
