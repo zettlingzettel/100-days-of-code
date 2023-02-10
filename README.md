@@ -36,6 +36,7 @@
 |n/a|n/a|n/a|n/a|n/a|n/a|n/a|
 | 18 hrs | 28 hrs  | 22 hrs  | 24 hrs  | 39 hrs  | 42 hrs | 71 hrs |
 * 1.1
+
 | W 1  | W 2  | W 3  | W 4  |
 |---|---|---|---|---|---|---|
 |🟦 21% out of 100%|n/a|n/a|n/a|n/a|n/a|n/a|
@@ -47,7 +48,7 @@
 
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
-| n/a | n/a  | n/a  | n/a  | n/a  | 
+| 🟦 6% out of 100% | n/a  | n/a  | n/a  | n/a  | 
 | 22 hrs | 28 hrs  | 35 hrs  | 27 hrs  | 32 hrs  | 
 
 ## SEO
