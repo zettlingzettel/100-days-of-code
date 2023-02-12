@@ -25,14 +25,20 @@ Will be filled in in March 2023 <br />
 ## 05 Mon - 12 Sun
 | M  | T  | W  | T  |  F | S  | S  |
 |---|---|---|---|---|---|---|
-| 🟩  | 🟩   | 🟩  | n/a   | n/a    | n/a    | n/a    |
+| 🟩  | 🟩   | 🟩  | 🟩    | 🟩    | 🟩     | n/a    |
+### 🟩 Day 10 - Feb 11 - Saturday 🟩
+* studied front end (styled-components)
+* coded a bit (front end, hasn't pushed to the git yet)
+
+### 🟩 Day 09 - Feb 10 - Friday 🟩
+* studied front end (styled-components)
+* coded a bit (front end, hasn't pushed to the git yet)
 
 ### 🟩 Day 08 - Feb 09 - Thursday 🟩
 => UX Design Google
 * Completed Week1 "Get to know user experience design"
 => Python
 * Started Week 1
-
 
 ### 🟩 Day 07 - Feb 08 - Wednesday 🟩
 * Solved problem with routes in react
@@ -74,6 +80,8 @@ Completed week 1, started week 2 & 3 <br />
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ### Stand Down Week 2
 [Week 2](#week-2---daily-gists) <br />
+=> [Day 10 - Feb 11 - Saturday](#day-10---feb-11---saturday)
+=> [Day 09 - Feb 10 - Friday](#day-09---feb-10---friday) <br />
 => [Day 08 - Feb 09 - Thursday](#day-08---feb-09---thursday) <br />
 => [Day 07 - Feb 08 - Wednesday](#day-07---feb-08---wednesday) <br />
 => [Day 06 - Feb 07 - Tuesday](#day-06---feb-07---tuesday) <br />
@@ -90,6 +98,17 @@ Completed week 1, started week 2 & 3 <br />
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 # WEEK 2 - Daily Gists <br />
+------------- Day 10 ------------------------------------------------------------------------------------------- <br />
+### Day 10 - Feb 11 - Saturday
+#### FRONT END
+* looked at codepen projects
+* working on frontend masters (slowly)
+------------- Day 09 ------------------------------------------------------------------------------------------- <br />
+### Day 09 - Feb 10 - Friday
+#### FRONT END
+* started to code using styled-components
+* found out about jquery, bootstrap, sass, tailwind, want to learn them
+* started frontend masters (doing slowly, but explain new concepts in code (hasn't pushed to the repo yet))
 
 ------------- Day 08 ------------------------------------------------------------------------------------------- <br />
 ### Day 08 - Feb 09 - Thursday
@@ -116,12 +135,12 @@ Materials
 * 🟩 6.2 - Manipulating Strings
 
 => Review: Chapter 6
-* ❗🔁❗ Notice for Auditing Learners: Assignment Submission
-* ❗🔁❗ Chapter 6 Quiz - Grade: --
+* 🟩  Notice for Auditing Learners: Assignment Submission
+* 🟩  Chapter 6 Quiz - Grade: --
 
 => Assignment: Chapter 6
-* ❗🔁❗ Assignment 6.5 - Grade: --
-* ❗🔁❗ Worked Exercise: 6.5
+* 🟩  Assignment 6.5 - Grade: --
+* 🟩  Worked Exercise: 6.5
 
 
 => Bonus: Chapter 6
