@@ -94,7 +94,7 @@
 * AWS Cloud Practitioner Essentials
 * AWS Cloud Solutions Architect Professional Certificate
 * DevOps on AWS Specialization
-* Node js + Angular + Typescript 
+* Node js + Angular + Typescript (FullStack Open or Coursera)
 * GO
 # Courses MAYBE MAYBE to Complete in the Future (PT 2)
 * Java + . NET
