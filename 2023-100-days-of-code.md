@@ -37,8 +37,9 @@ Didn't code too much, too bad
 ### 🟩 Days 11 - 13 - Mar 20 - Mar 22 - Mon - Wed 🟩
 * studied Coursera: <br />
 => Calarts ~ Fundamentals of graphic design ~ from 0% till 23% <br />
-=> Google ~ Foundations of UX design, reached 46% <br />
+=> Google ~ Foundations of UX design ~ from 21% till 46% <br />
 => Calarts ~ Visual Elements of User Interface Design ~ from 0% till 18% <br />
+=> Google ~ Project Management ~ from 0% till 20% <br />
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ## Week 2
