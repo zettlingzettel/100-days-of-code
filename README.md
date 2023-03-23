@@ -28,17 +28,36 @@
 | 🟩 | 🟦 21% out of 100%  | n/a  | n/a  | n/a  | 
 | 19 hrs | 19 hrs  | 19 hrs  | 15 hrs  | 9 hrs  | 
 
-## UX Design
+## Google: UX Design
 * Google UX Design Professional Certificate
 * TOTAL HOURS: 266 hrs <br />
 
 | 1  | 2  | 3  | 4  |  5 | 6 | 7 |
 |---|---|---|---|---|---|---|
-|n/a|n/a|n/a|n/a|n/a|n/a|n/a|
 | 18 hrs | 28 hrs  | 22 hrs  | 24 hrs  | 39 hrs  | 42 hrs | 71 hrs |
-|🟦 21% out of 100%|n/a|n/a|n/a|n/a|n/a|n/a|
+|🟦 46% out of 100%|n/a|n/a|n/a|n/a|n/a|n/a|
 
-## IT Support
+## CalArts: UI / UX design
+| 1  | 2  | 3  | 4  | 
+|---|---|---|---|
+| 16 hrs | 13 hrs  | 11 hrs  | 40 hrs  | 
+|🟦 18% out of 100%|n/a|n/a|n/a|
+
+
+## CalArts: Graphic Design
+| 1  | 2  | 3  | 4  |  5 |
+|---|---|---|---|---|
+| 15 hrs | 8 hrs  | 11 hrs  | 10 hrs  | 24 hrs  | 
+|🟦 23% out of 100%|n/a|n/a|n/a|n/a|
+
+## Google: Project Management
+| 1  | 2  | 3  | 4  |  5 | 6 |
+|---|---|---|---|---|---|
+| 18 hrs | 21 hrs  | 29 hrs  | 26 hrs  | 25 hrs  | 34 hrs |
+|🟦 20% out of 100%|n/a|n/a|n/a|n/a|n/a|
+
+
+## Google: IT Support
 * Google IT Support Professional Certificate
 * TOTAL HOURS: 266 hrs <br />
 
@@ -46,6 +65,7 @@
 |---|---|---|---|---|
 | 🟦 6% out of 100% | n/a  | n/a  | n/a  | n/a  | 
 | 22 hrs | 28 hrs  | 35 hrs  | 27 hrs  | 32 hrs  | 
+
 
 # Courses to Complete in Future
 ## Python
