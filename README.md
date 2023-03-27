@@ -79,7 +79,8 @@
 
 | 1  | 2  | 3  | 4  |  5 |
 |---|---|---|---|---|
-| n/a | n/a  | n/a  | n/a  | n/a  | 
+| 🟦 20% out of 100% | n/a  | n/a  | n/a  | n/a  | 
+| 13 hrs | 29 hrs  | 13 hrs  | 17 hrs  | 47 hrs  | 
 
 ## Information Visualization Specialization
 * TOTAL HOURS: 54 <br />
@@ -108,6 +109,8 @@
 | 1  |  
 |---|
 | n/a | 
+
+
 # Courses MAYBE to Complete in the Future (PT 1)
 * SQL for Data Science
 * Statistics with Python
