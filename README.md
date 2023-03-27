@@ -66,13 +66,6 @@
 | 🟦 6% out of 100% | n/a  | n/a  | n/a  | n/a  | 
 | 22 hrs | 28 hrs  | 35 hrs  | 27 hrs  | 32 hrs  | 
 
-
-# Courses to Complete in Future
-## Python
-
-* Python 3 Programming Specialization 
-* Django For Everybody
-
 ## SEO
 * Search Engine Optimization (SEO) Specialization 
 * TOTAL HOURS: 133 hrs <br />
@@ -81,6 +74,12 @@
 |---|---|---|---|---|
 | 🟦 20% out of 100% | n/a  | n/a  | n/a  | n/a  | 
 | 13 hrs | 29 hrs  | 13 hrs  | 17 hrs  | 47 hrs  | 
+
+# Courses to Complete in Future
+## Python
+
+* Python 3 Programming Specialization 
+* Django For Everybody
 
 ## Information Visualization Specialization
 * TOTAL HOURS: 54 <br />
