@@ -18,6 +18,26 @@
 
 
 # Courses in Progress
+## => Programming: 
+### * [Python for Everybody Specialization](#python-for-everybody-specialization)
+<br/>
+
+## => SEO:
+### * Search Engine Optimization (SEO) Specialization 
+<br />
+
+## UX design:
+### * Google: UX Design
+### * CalArts: UI / UX design
+### * CalArts: Graphic Design
+<br />
+
+## => Project Management
+### * Google: Project Management
+<br />
+
+## IT Support
+### * Google IT Support Professional Certificate
 
 ## Python
 * [Python for Everybody Specialization](#python-for-everybody-specialization)
