@@ -1,4 +1,4 @@
-# 2023
+# 2023.
 ❗🔁❗ -> needs to be done (obligatory) \
 🟩 -> completed that day \
 ✅ -> completed another day \
