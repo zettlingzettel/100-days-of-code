@@ -24,8 +24,8 @@ Certificate #1 - 🟦 93% out of 100%  <br />
 Certificate #2 - 🟦 57% out of 100%  <br />
 <br />
 
---> SEO <--
-* Search Engine Optimization (SEO) Specialization 
+--> SEO <-- 
+* Search Engine Optimization (SEO) Specialization <br />
 Certificate #1 - 🟦 41% out of 100% 
 <br />
 
@@ -36,7 +36,7 @@ EXTRA: --> Python for Everybody Specialization <-- <br />
 
 --> Data Science <-- <br />
 ---->> PREP COURSES: <<---- <br />
-* Expressway to Data Science: R Programming and Tidyverse Specialization (3) 
+* Expressway to Data Science: R Programming and Tidyverse Specialization (3) <br />
 Certificate #1 - 🟦 6% out of 100%
 * Expressway to Data Science: Python Programming Specialization (3)
 * Expressway to Data Science: Essential Math (3)
