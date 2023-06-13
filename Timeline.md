@@ -1,3 +1,8 @@
+DREAMS: <br />
+MS in Data Science - Colorado Boulder <br />
+PhD Program in Social & Engineering Systems <br />
+
+
 TIMELOG:
 
 # 2023 
@@ -19,7 +24,7 @@ June <br />
 --> UX <--
 * Google UX Design Professional <br />
 Certificate #1 - 🟦 46% out of 100%
-* CalArts: UI / UX design
+* CalArts: UI / UX design <br />
 Certificate #1 - 🟦 93% out of 100%  <br />
 Certificate #2 - 🟦 57% out of 100%  <br />
 <br />
