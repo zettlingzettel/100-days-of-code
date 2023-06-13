@@ -41,3 +41,9 @@
 |---|---|---|---|---|
 | 🟦 41% out of 100% | n/a  | n/a  | n/a  | n/a  | 
 | 13 hrs | 29 hrs  | 13 hrs  | 17 hrs  | 47 hrs  | 
+
+# Data Analysis
+## Expressway to Data Science: R Programming and Tidyverse Specialization
+| 1  | 2  | 3  | 4  | 
+|---|---|---|---|
+|🟦 6% out of 100%|n/a|n/a|n/a|
